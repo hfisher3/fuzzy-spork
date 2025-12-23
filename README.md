@@ -9,5 +9,5 @@ The NCL is a series of Capture The Flag (CTF) events. While not my first time co
   \
   \
   \
-  \
+  
 <img width="975" height="663" alt="image" src="https://github.com/user-attachments/assets/04fe2464-103e-48ee-afdc-c21549b9d911" />
